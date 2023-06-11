@@ -53,9 +53,7 @@
      alt="website" /></a>
   </p>
  <p align="center">
-  <a href="github.com/amaan178" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/amaan178/amaan178?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
+ <img alt="NPM" src="https://img.shields.io/npm/l/install?style=for-the-badge">
   <a href="github.com/amaan178"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
